@@ -1,0 +1,6 @@
+Model Comparison (5-fold CV)
+
+                  R2_test_mean  RMSE_test_mean
+LinearRegression        0.7724          0.3897
+XGBoost                 0.7696          0.3920
+RandomForest            0.7435          0.4136
